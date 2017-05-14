@@ -23,6 +23,7 @@ const  	GIANT = [50121.215,-72670.48,-5719.476,13,2328],
 		else if (qid == 2321){ 
 			iodNow = true
 			setCoordinates(BASILISK)
+			tpIod(qid)
 			}
 		else if (qid == 2322){ 
 			iodNow = true
