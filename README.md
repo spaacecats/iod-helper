@@ -1,5 +1,5 @@
 # iod-helper
-TERA-proxy module that teleports you closer to BAMs when using teleport to quest option from Vanguard menu
+TERA-proxy module that teleports you closer to BAMs when adding any active quest to skill tracker
 ## **Usage**
 * Module is enabled by default, simply use Vanguard menu to teleport to any IoD quest by clicking this **eye icon**:
 ![Screenshot](http://puu.sh/vPUbQ/eeb0c4ca2a.jpg)
