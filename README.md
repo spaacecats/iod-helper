@@ -5,3 +5,4 @@ TERA-proxy module that teleports you closer to BAMs when using teleport to quest
 ![Screenshot](http://puu.sh/vPUbQ/eeb0c4ca2a.jpg)
 * You can disable the module by typing **`!iod`** in any chat but whisper
 * Type the command again or restart the game to re-enable
+* Move C_CHECK_EVENT_MATCHING_LIST_CHECKBOX.1.def to your **tera-proxy/node_modules/tera-data/protocol**
